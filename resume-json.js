@@ -78,13 +78,37 @@
     "company": "Wilhelmina Denver",
     "position": "Commercial Model & Actress",
     "website": "http://www.wilhelminadenver.com/",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "startDate": "2014-04",
+    "endDate": "current",
+    "summary": "Responsible for conveying product image through performance skills.",
     "highlights": [
-      "Started the company"
-    ]
-  }],
+      "IMTA LA Conference",
+      "SAG Union Member Status"
+    ]},
+    {
+    "company": "Nordstrom",
+    "position": "Sales Stylist Associate",
+    "website": "http://www.nordstrom.com/",
+    "startDate": "2014-07",
+    "endDate": "2015-06",
+    "summary": "Responsible for commissioned high-end retail sales in a customer service-based company. Position developed skills in building a client base, booking appointments, and maintaining client relationships.",
+    "highlights": [
+      "Top sales assocaite in department.",
+      "On track to be company Pacesetter",
+      "Allstar award for customer service."
+    ]},
+    {
+    "company": "Western Institute for Neurodevelopmental Studies and Inverventions (WINSi)",
+    "position": "Patient Care Coordinator",
+    "website": "http://www.winsi.org/",
+    "startDate": "2013-01",
+    "endDate": "2014-04",
+    "summary": "Responsible for the assessment and analysis of trends through collected treatment plan data, organization of the daily schedule of 10 professional staff and team members, development and monitoring of multidisciplinary care plans and case management tools, maintenance of patient databases, communication of organization services and goals to potential clients, and compilation of data for research presentations.",
+    "highlights": [
+      "LIPs Therapist Trained",
+      "Website maintenance"
+    ]}
+  ],
   // "awards": [{
   //   "title": "Award",
   //   "date": "2014-11-01",
