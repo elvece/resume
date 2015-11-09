@@ -31,22 +31,46 @@
     }
   ]},
   "skills": [{
-    "name": "Programming Languages",
+    "name": "Programming Frameworks and Libraries",
     "level": "Intermediate",
     "keywords": [
-      "Javascript"
+      "JQuery",
+      "AngularJS",
+      "NodeJS",
+      "ExpressJS",
+      "Mocha",
+      "Chai",
+      "Jasmine",
+      "Nodemon",
+      "Gulp",
+      "Mongoose",
+      "Bootstrap",
+      "HTML5",
+      "CSS3",
+      "BackboneJS",
+      "Swig",
+      "Django"
     ]},
     {
     "name": "Programming Languages",
     "level": "Intermediate",
     "keywords": [
-      "Javascript"
+      "Javascript",
+      "Python"
     ]},
     {
-    "name": "Programming Languages",
+    "name": "Technologies",
     "level": "Intermediate",
     "keywords": [
-      "Javascript"
+      "TDD",
+      "Git",
+      "User authentication",
+      "Google Analytics",
+      "Photoshop",
+      "Digital Photography",
+      "Responsive Design",
+      "UI",
+      "UX"
     ]}
   ],
   "education": [{
