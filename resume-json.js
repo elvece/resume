@@ -125,7 +125,16 @@
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
-  }],
+    },
+    {
+    "language": "Italian",
+    "fluency": "Intermeidate proficiency"
+    },
+    {
+    "language": "French",
+    "fluency": "Intermediate proficiency"
+    }
+  ],
   "interests": [{
     "name": "Outoodrs",
     "keywords": [
