@@ -30,10 +30,54 @@
       "url": "https://twitter.com/el_ve_ce"
     }
   ]},
+  "skills": [{
+    "name": "Programming Languages",
+    "level": "Intermediate",
+    "keywords": [
+      "Javascript"
+    ]},
+    {
+    "name": "Programming Languages",
+    "level": "Intermediate",
+    "keywords": [
+      "Javascript"
+    ]},
+    {
+    "name": "Programming Languages",
+    "level": "Intermediate",
+    "keywords": [
+      "Javascript"
+    ]}
+  ],
+  "education": [{
+    "institution": "Galvanize university (gSchool)",
+    "area": "Full-Stack Web Development",
+    "startDate": "2015-07-01",
+    "endDate": "2015-12-18",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]},
+    {
+    "institution": "Loyola University Florence",
+    "area": "Psychology B.A.",
+    "startDate": "2007-09",
+    "endDate": "2011-05",
+    "Awards": [
+      "Cum Laude"
+    ]},
+    {
+    "institution": "Syracuse University",
+    "area": "Studio Arts Minor",
+    // "startDate": "2015-07-01",
+    // "endDate": "2015-12-18",
+    "Awards": [
+      "Art Department Purchase Prize Recipient"
+    ]}
+  ],
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
+    "company": "Wilhelmina Denver",
+    "position": "Commercial Model & Actress",
+    "website": "http://www.wilhelminadenver.com/",
     "startDate": "2013-01-01",
     "endDate": "2014-01-01",
     "summary": "Description...",
@@ -41,63 +85,29 @@
       "Started the company"
     ]
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
+  // "awards": [{
+  //   "title": "Award",
+  //   "date": "2014-11-01",
+  //   "awarder": "Company",
+  //   "summary": "There is no spoon."
+  // }],
+  // "publications": [{
+  //   "name": "Publication",
+  //   "publisher": "Company",
+  //   "releaseDate": "2014-10-01",
+  //   "website": "http://publication.com",
+  //   "summary": "Description..."
+  // }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Outoodrs",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Mountains",
+      "Hiking",
+      "Snowboarding"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
   }]
 }
