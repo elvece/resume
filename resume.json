@@ -74,7 +74,7 @@
     ]}
   ],
   "education": [{
-    "institution": "Galvanize university (gSchool)",
+    "institution": "Galvanize University (gSchool)",
     "area": "Full-Stack Web Development",
     "startDate": "2015-07-01",
     "endDate": "2015-12-18",
@@ -82,18 +82,18 @@
       "DB1101 - Basic SQL"
     ]},
     {
-    "institution": "Loyola University Florence",
+    "institution": "Loyola University Maryland",
     "area": "Psychology B.A.",
-    "startDate": "2007-09",
-    "endDate": "2011-05",
+    "startDate": "2007-09-01",
+    "endDate": "2011-05-15",
     "Awards": [
       "Cum Laude"
     ]},
     {
     "institution": "Syracuse University",
     "area": "Studio Arts Minor",
-    // "startDate": "2015-07-01",
-    // "endDate": "2015-12-18",
+    "startDate": "2009-08-01",
+    "endDate": "2009-12-18",
     "Awards": [
       "Art Department Purchase Prize Recipient"
     ]}
@@ -102,8 +102,8 @@
     "company": "Wilhelmina Denver",
     "position": "Commercial Model & Actress",
     "website": "http://www.wilhelminadenver.com/",
-    "startDate": "2014-04",
-    "endDate": "current",
+    "startDate": "2014-04-15",
+    "endDate": "2015-10-10",
     "summary": "Responsible for conveying product image through performance skills.",
     "highlights": [
       "IMTA LA Conference",
@@ -113,8 +113,8 @@
     "company": "Nordstrom",
     "position": "Sales Stylist Associate",
     "website": "http://www.nordstrom.com/",
-    "startDate": "2014-07",
-    "endDate": "2015-06",
+    "startDate": "2014-07-01",
+    "endDate": "2015-06-15",
     "summary": "Responsible for commissioned high-end retail sales in a customer service-based company. Position developed skills in building a client base, booking appointments, and maintaining client relationships.",
     "highlights": [
       "Top sales assocaite in department.",
@@ -125,27 +125,14 @@
     "company": "Western Institute for Neurodevelopmental Studies and Inverventions (WINSi)",
     "position": "Patient Care Coordinator",
     "website": "http://www.winsi.org/",
-    "startDate": "2013-01",
-    "endDate": "2014-04",
+    "startDate": "2013-01-01",
+    "endDate": "2014-04-01",
     "summary": "Responsible for the assessment and analysis of trends through collected treatment plan data, organization of the daily schedule of 10 professional staff and team members, development and monitoring of multidisciplinary care plans and case management tools, maintenance of patient databases, communication of organization services and goals to potential clients, and compilation of data for research presentations.",
     "highlights": [
       "LIPs Therapist Trained",
       "Website maintenance"
     ]}
   ],
-  // "awards": [{
-  //   "title": "Award",
-  //   "date": "2014-11-01",
-  //   "awarder": "Company",
-  //   "summary": "There is no spoon."
-  // }],
-  // "publications": [{
-  //   "name": "Publication",
-  //   "publisher": "Company",
-  //   "releaseDate": "2014-10-01",
-  //   "website": "http://publication.com",
-  //   "summary": "Description..."
-  // }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
