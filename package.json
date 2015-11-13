@@ -1,0 +1,13 @@
+{
+  "name": "lucy-json-resume",
+  "version": "0.1.1",
+  "description": "Boilerplate theme for JSON Resume",
+  "author": "Lucy Cifferello",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elvece/resume.git"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
