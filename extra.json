@@ -1,0 +1,14 @@
+  "projects": [{
+    "title": "D/R/Y Blog",
+    "website": "http://www.dry-blog.com/",
+    "github repo": "https://github.com/elvece/dry-blog",
+    "summary": "Sharing the stories of women in tech on this home grown blogging platform.",
+    "main technologies": [
+      "Node/Express",
+      "AngularJS",
+      "MongoDB",
+      "Bootstrap"
+    ]},
+    {
+
+  }]
